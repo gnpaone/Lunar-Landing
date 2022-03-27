@@ -12,9 +12,9 @@ Read the paper-like report for the project [here](https://github.com/gnpaone/Lun
 - [OpenAI gym](https://gym.openai.com/)
 - [NumPy](https://numpy.org/) 
 - [Matplotlib](https://matplotlib.org/)
-- [Box2d](https://box2d.org/)
+- [Box2D](https://box2d.org/)
 
-### Lunar-Lander-Continuos=v2.ipynb ###
+### Lunar-Lander-Continuos-v2.ipynb ###
 This file contains the main code, which creates the agents and launches them.
 
 ## Optional Arguments ##
